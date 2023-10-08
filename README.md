@@ -1,4 +1,4 @@
 # photography
 This is My First Git Repository
 <br>
-Author - Varad
+Author - Varad Pawar
